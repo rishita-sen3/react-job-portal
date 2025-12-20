@@ -86,3 +86,9 @@ Contributions are what make the open-source community such an amazing place to l
 
 ## Please give a star ⭐ to the repository if you like it.
 
+#SCREENSHOTS
+![home](image.png)
+![all jobs](image-1.png)
+![active jobs](image-2.png)
+![postjobs](image-3.png)
+![your jobs](image-4.png)
